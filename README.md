@@ -16,3 +16,7 @@ The code uses the MNIST dataset, which is a dataset of handwritten digits. The d
 The code uses several Keras functions and layers such as Model, Input, Flatten, Dense, Dropout, Lambda, RMSprop to define the architecture of the network, the loss function and the optimizer.
 
  </h4>
+<h4> You can get information by the link below. You might need to translate the page <h4>
+
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://efecanxrd.medium.com/siyam-sinir-a%C4%9Flar%C4%B1-siamese-neural-network-e5413ee121)
+  
